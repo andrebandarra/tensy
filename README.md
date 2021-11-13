@@ -3,6 +3,7 @@
 ![Table](/photos/thumb.jpg)
 
 https://www.youtube.com/watch?v=AOkSkCXVu8w --- https://andrebandarra.com/tensy
+https://easyeda.com/Bandarra/line-tension-v2_copy
 
 ## Description
 Wanting to measure a log loadsensor data from multiple paraglider lines in flight I've created Tensy.
